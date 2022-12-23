@@ -1,0 +1,12 @@
+{
+    "BM": "Biomolecules",
+    "CB": "Cell Behavior",
+    "GN": "Genomics",
+    "MN": "Molecular Networks",
+    "NC": "Neurons and Cognition",
+    "OT": "Other Quantitative Biology",
+    "PE": "Populations and Evolution",
+    "QM": "Quantitative Methods",
+    "SC": "Subcellular Processes",
+    "TO": "Tissues and Organs"
+}
